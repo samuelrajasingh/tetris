@@ -1,0 +1,31 @@
+name: soundpool_example
+description: Demonstrates how to use the soundpool plugin.
+version: 0.0.1+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  soundpool:
+    path: ../
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - sounds/dices.m4a
+    # Following sound was downloaded from http://soundbible.com/2212-Van-Sliding-Door.html
+    - sounds/van-sliding-door-daniel_simon.wav
+    - sounds/do-you-like-it.wav
