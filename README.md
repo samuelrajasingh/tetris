@@ -22,9 +22,9 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 ## Effect preview
 
 
-! [web version] (./_preview/chromeTetris.gif)
+![web version](./_preview/chromeTetris.gif)
 
-! [mac version] (./_preview/macTetris.gif)
+![mac version](./_preview/macTetris.gif)
 
 ## Other
 
