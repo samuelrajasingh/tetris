@@ -20,13 +20,7 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 * Or go to [https://boyan01.github.io/flutter-tetris](https://boyan01.github.io/flutter-tetris/#/) to experience the web version
 
 ## Effect preview
-
-! [Effect Preview] (./_preview/game_gif.gif)
-
-Support landscape mode
-
-! [Landscape] (./_preview/screen_land.jpg)
-
+[![Watch how its done ] ](./_preview/chromeTetris.mp4)
 
 ## Other
 
