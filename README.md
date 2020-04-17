@@ -27,5 +27,5 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 ![mac version](./_preview/macTetris.gif)
 
 ## Other
-
+Star the repo if you like it
 MIT with 996 License
