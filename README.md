@@ -25,12 +25,9 @@ The reference comes from [vue-tetris] (https://github.com/Binaryify/vue-tetris).
 
 ## Effect preview
 
-! [Effect Preview] (./_preview/game_gif.gif)
+! [web version] (./_preview/chromeTetris.gif)
 
-Support landscape mode
-
-! [Landscape] (./_ preview / screen_land.jpg)
-
+! [mac version] (./_preview/macTetris.gif)
 
 ## Other
 
