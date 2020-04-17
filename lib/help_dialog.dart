@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class help_dialog extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+
     return SimpleDialog(
       contentPadding:
           const EdgeInsets.only(top: 8, left: 8, right: 8, bottom: 4),
@@ -23,7 +24,7 @@ class help_dialog extends StatelessWidget {
           onTap: ()  {},
         ),
         _ActionTile(
-          text: "Space for drop",
+          text: "X for drop",
           onTap: ()  {},
         ),
         _ActionTile(

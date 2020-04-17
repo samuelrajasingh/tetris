@@ -36,7 +36,7 @@ class _KeyboardControllerState extends State<KeyboardController> {
       game.left();
     } else if (key == PhysicalKeyboardKey.keyD )  {
       game.right();
-    } else if ((key == PhysicalKeyboardKey.space)) {
+    } else if ((key == PhysicalKeyboardKey.keyX)) {
       game.drop();
     } else if (key == PhysicalKeyboardKey.keyP) {
       game.pauseOrResume();
