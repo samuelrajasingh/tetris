@@ -21,9 +21,10 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 
 ## Effect preview
 
-
+As a Website
 ![web version](./_preview/chromeTetris.gif)
 
+As a mac app
 ![mac version](./_preview/macTetris.gif)
 
 ## Other
