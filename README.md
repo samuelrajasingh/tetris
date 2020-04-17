@@ -15,11 +15,16 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 
   Enter at the command line: `flutter run --profile`
 
-* Go to [Release] (https://github.com/boyan01/flutter-tetris/releases) to download the Apk / macOS / Windows executable file.
+* Go to [Release] (https://github.com/samuelrajasingh/tetris/releases/) to download the Apk / macOS / Windows executable file--COMING SOON --.
 
 * Or go to [https://boyan01.github.io/flutter-tetris](https://boyan01.github.io/flutter-tetris/#/) to experience the web version
 
 ## Effect preview
+In Iphone 11 pro max ->
+
+![portrait](./_preview/iphone.png)
+
+![Landscape](_preview/iphone_land.png)
 
 As a Website ->
 

@@ -14,7 +14,6 @@ void main() {
   runApp(MyApp());
 }
 
-
 final RouteObserver<ModalRoute> routeObserver = RouteObserver<ModalRoute>();
 
 class MyApp extends StatelessWidget {
