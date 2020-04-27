@@ -22,17 +22,17 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 ## Effect preview
 In Iphone 11 pro max ->
 
-![portrait](./_preview/iphone.png)
+<img src="./_preview/iphone.png" alt="Portrait" width="50%" ></img>
 
-![Landscape](_preview/iphone_land.png)
+<img src="./_preview/iphone_land.png" alt="Landscape" width="50%" ></img>
 
 As a Website ->
 
-![web version](./_preview/chromeTetris.gif)
-
+<img src="./_preview/chromeTetris.gif" alt="web version" width="50%" ></img>
 As a mac app->
 
-![mac version](./_preview/macTetris.gif)
+<img src="./_preview/macTetris.gif" alt="mac app" width="50%" ></img>
+
 
 ## Other
 Star the repo if you like it
