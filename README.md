@@ -20,21 +20,22 @@ The reference comes from [vue-tetris](https://github.com/Binaryify/vue-tetris).
 * Or go to [https://boyan01.github.io/flutter-tetris](https://boyan01.github.io/flutter-tetris/#/) to experience the web version
 
 ## Effect preview
-In Iphone 11 pro max ->
+#In Iphone 11 pro max ->
 
 <img src="./_preview/iphone.png" alt="Portrait" width="50%" ></img>
 
 <img src="./_preview/iphone_land.png" alt="Landscape" width="50%" ></img>
 
-As a Website ->
+#As a Website ->
+![check for yourself here](https://samuelrajasingh.github.io/tetris/#/)
+<img src="./_preview/chromeTetris.gif" alt="web version" width="80%" ></img>
 
-<img src="./_preview/chromeTetris.gif" alt="web version" width="50%" ></img>
 As a mac app->
 
-<img src="./_preview/macTetris.gif" alt="mac app" width="50%" ></img>
+<img src="./_preview/macTetris.gif" alt="mac app" width="80%" ></img>
 
 
 ## Other
-Star the repo if you like it
+#Star the repo if you like it
 
 MIT with 996 License
